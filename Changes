@@ -1,6 +1,13 @@
 Revision history for Perinci-Sub-Property-exit_on_error
 
-0.01     2014-03-12 (SHARYANTO)
+0.02    2016-03-09 (PERLANCAR)
 
-         - First release. Source code based on
-           Perinci-Sub-Property-dies_on_error.
+        - No functional changes.
+
+        - Re-release/re-upload (accidentally deleted).
+
+
+0.01    2014-03-12 (SHARYANTO)
+
+        - First release. Source code based on
+          Perinci-Sub-Property-dies_on_error.
